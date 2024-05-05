@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-complete-tag",
+    "ms-azuretools.vscode-docker",
+    "naumovs.color-highlight",
+    "pdconsec.vscode-print",
+    "SimonSiefke.svg-preview",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "xabikos.ReactSnippets",
+    "yzhang.markdown-all-in-one"
+  ]
+}
